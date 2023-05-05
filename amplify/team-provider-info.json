@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fileuploader-staging-102441-authRole",
+      "UnauthRoleArn": "arn:aws:iam::641618482397:role/amplify-fileuploader-staging-102441-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::641618482397:role/amplify-fileuploader-staging-102441-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-fileuploader-staging-102441-deployment",
+      "UnauthRoleName": "amplify-fileuploader-staging-102441-unauthRole",
+      "StackName": "amplify-fileuploader-staging-102441",
+      "StackId": "arn:aws:cloudformation:eu-north-1:641618482397:stack/amplify-fileuploader-staging-102441/0c2f9a70-eb2f-11ed-ad01-0acfb0293a00",
+      "AmplifyAppId": "ddsk9owywhf63"
+    },
+    "categories": {
+      "auth": {
+        "fileuploader": {}
+      },
+      "storage": {
+        "s3fileuploaderstorage40a9415b": {}
+      }
+    }
+  }
+}
